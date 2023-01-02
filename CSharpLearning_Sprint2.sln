@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reflection", "Reflection", "{B81E7697-9423-41FD-9867-C7154F135C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionLibrary", "ReflectionLibrary\ReflectionLibrary.csproj", "{73D01350-9D57-4D98-B974-3EF25FEEB27C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionApp", "ReflectionApp\ReflectionApp.csproj", "{22CA676D-3E45-43CA-8130-938AE9ADBAF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D01350-9D57-4D98-B974-3EF25FEEB27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D01350-9D57-4D98-B974-3EF25FEEB27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D01350-9D57-4D98-B974-3EF25FEEB27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D01350-9D57-4D98-B974-3EF25FEEB27C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CA676D-3E45-43CA-8130-938AE9ADBAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CA676D-3E45-43CA-8130-938AE9ADBAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CA676D-3E45-43CA-8130-938AE9ADBAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CA676D-3E45-43CA-8130-938AE9ADBAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{73D01350-9D57-4D98-B974-3EF25FEEB27C} = {B81E7697-9423-41FD-9867-C7154F135C8A}
+		{22CA676D-3E45-43CA-8130-938AE9ADBAF8} = {B81E7697-9423-41FD-9867-C7154F135C8A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD2B3EF-F4AD-429C-A4FA-8A15E12CA813}
+	EndGlobalSection
+EndGlobal
